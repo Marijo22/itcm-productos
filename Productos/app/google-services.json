@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076285474806",
+    "project_id": "notasweb-a4921",
+    "storage_bucket": "notasweb-a4921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076285474806:android:bb262c82f29581d24ca9d7",
+        "android_client_info": {
+          "package_name": "com.itcm.rodriguez.maria.productos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZiV12ujX48ukra9vT-u9I6Q8ruHqLPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076285474806:android:9415916418aca0774ca9d7",
+        "android_client_info": {
+          "package_name": "com.itcm.rodriguez.maria.zenithmind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZiV12ujX48ukra9vT-u9I6Q8ruHqLPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
